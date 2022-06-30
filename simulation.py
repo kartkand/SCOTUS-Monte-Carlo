@@ -163,20 +163,3 @@ runAnalysis(False)
 
 # Run analysis assuming RBG had retired in 2013 and was replaced in that year by a 50-year-old Justice appointed by President Obama.
 runAnalysis(True)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
